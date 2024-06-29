@@ -1,3 +1,4 @@
+package javaswing;
 import javax.swing.*;
 
 class Swingdemo {
